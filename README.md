@@ -1,8 +1,5 @@
-# Ciências de dados - USP
+## Data Science - USP
+This repository serves as a foundation for the Data Science discipline offered in the Information Systems course at USP.
 
-Este repositório serve como base para a disciplina de Ciências de Dados oferecida no curso de Sistemas de Informação na USP.
-
-## Objetivo
-
-O objetivo deste repositório é armazenar todas as manipulações e análises de dados realizadas para a entrega do trabalho final da disciplina de Ciências de Dados.
-
+## Objective
+The objective of this repository is to store all data manipulations and analyses performed for the final project submission in the Data Science discipline.
